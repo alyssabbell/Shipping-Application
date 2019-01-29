@@ -1,0 +1,4 @@
+shipment date: 3, item type: doodads, quantity: 50
+shipment date: 21, item type: gizmos, quantity: 300
+shipment date: 22, item type: widgets, quantity: 500
+shipment date: 30, item type: widgets, quantity: 1000

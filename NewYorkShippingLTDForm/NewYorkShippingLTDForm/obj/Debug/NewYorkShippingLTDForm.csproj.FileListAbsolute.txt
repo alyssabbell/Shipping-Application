@@ -1,0 +1,12 @@
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\bin\Debug\NewYorkShippingLTDForm.exe.config
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\bin\Debug\NewYorkShippingLTDForm.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\bin\Debug\NewYorkShippingLTDForm.pdb
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.Form1.resources
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.Properties.Resources.resources
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.csproj.GenerateResource.Cache
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.pdb
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.csprojResolveAssemblyReference.cache
+C:\Users\alyssa\Dropbox\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\bin\Debug\NewYorkShippingLTDForm.exe.config
+C:\Users\alyssa\Dropbox\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.exe
+C:\Users\alyssa\Dropbox\CIS 144\Project 2\NewYorkShippingLTDForm\NewYorkShippingLTDForm\obj\Debug\NewYorkShippingLTDForm.pdb

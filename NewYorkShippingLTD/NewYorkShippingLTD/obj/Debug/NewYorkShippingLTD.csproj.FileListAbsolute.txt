@@ -1,0 +1,5 @@
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTD\NewYorkShippingLTD\bin\Debug\NewYorkShippingLTD.exe.config
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTD\NewYorkShippingLTD\bin\Debug\NewYorkShippingLTD.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTD\NewYorkShippingLTD\bin\Debug\NewYorkShippingLTD.pdb
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTD\NewYorkShippingLTD\obj\Debug\NewYorkShippingLTD.exe
+C:\Users\alyssa\Desktop\CIS 144\Project 2\NewYorkShippingLTD\NewYorkShippingLTD\obj\Debug\NewYorkShippingLTD.pdb

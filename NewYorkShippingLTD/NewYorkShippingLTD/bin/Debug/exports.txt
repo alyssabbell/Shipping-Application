@@ -1,0 +1,4 @@
+widgets, 200, 17
+gizmos, 150, 27
+widgets, 100, 11
+gizmos, 1000, 12

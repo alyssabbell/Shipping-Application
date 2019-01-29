@@ -1,0 +1,4 @@
+widgets, 500, 22
+gizmos, 300, 21
+doodads, 50, 3
+widgets, 1000, 30

@@ -1,0 +1,4 @@
+shipment date: 11, item type: widgets, quantity: 100
+shipment date: 12, item type: gizmos, quantity: 1000
+shipment date: 17, item type: widgets, quantity: 200
+shipment date: 27, item type: gizmos, quantity: 150
